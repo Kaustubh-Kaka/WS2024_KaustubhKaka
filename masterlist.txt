@@ -1,0 +1,15 @@
+Winter School CV tasklist
+
+basic python examples/ numpy examples (John) day1 morning
+using cv2, creating images(grayscale monotone rgb), reading images (John / Anjali) idr day1 evening
+
+basic image manipulation, creating masks, rotating images(by hand) (John / Anjali) idr day1 evening + day2 morning
+AI - k-means clustering (Anjali) day2 evening(k-means clustering task)
+
+AI - linear regression (Samarth?) idr (I lost track please help)
+AI - neural networks (Shreyya)
+
+Pathfinding - BFS/DFS (John) day6 evening(gta map task)
+
+Pathfinding - RRT/PRM (Manish + person from robosoccer(Saurav?)) day7 morning
+Line follower building day7 evening
