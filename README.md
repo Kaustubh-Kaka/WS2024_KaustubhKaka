@@ -1,1 +1,1 @@
-# WS2024_KaustubhKaka
+# TRS 2024 Winter school log
